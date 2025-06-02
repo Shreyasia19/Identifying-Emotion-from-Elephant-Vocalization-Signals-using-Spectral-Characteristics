@@ -85,8 +85,9 @@ Execute all cells sequentially to train and evaluate the models.
 
 📝 Project Structure
 
-📁 ElephantCall-Analysis/
-├── ElephantCall Analysis.ipynb  # Main analysis notebook
+📁 Identifying-Emotion-from-Elephant-Vocalization-Signals-using-Spectral-Characteristics
+/
+├── Identifying-Emotion-from-Elephant-Vocalization-Signals-using-Spectral-Characteristics.ipynb  # Main analysis notebook
 ├── README.md                    # Project documentation
 └── data/
-    └── 20231225_dfall_obs_data_and_spectral_features_revision1_n469.csv  # Dataset (not included in rep
+    └── 20231225_dfall_obs_data_and_spectral_features_revision1_n469.csv  # Dataset 
